@@ -63,13 +63,3 @@ img{
 .card:hover{
     transform: scale(1.5);
 }
-/* Q3 What does box-sizing:border-box do?
-This means thhat the width and height of an element are calculated based on the content inside the element
-*/
-/* 
-Q4 other ways of using color
-1. color: #FF000  (This is when we use hexadecimals values)
-2. color: rgb  (This is when we use Red, Green and Blue values to make a color)
-*/
-
-/* I didn't do question 2 properly, I had already recreated the webpage when I saw it and didn't really understand why we had to use 4 of each. sorry ':) */
